@@ -24,6 +24,5 @@ for(i=1; i<n; i++){
 		largest = x[i];  index = i;}// 1 2 5 4
 	}
 printf("Largest: %d\nIndex: %d", largest,index);// what if the largest value repeats?it will show index for the first time it found
-
 return 0;
 }
