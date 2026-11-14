@@ -1,4 +1,4 @@
-/* Practice Task 4: Linear search. Read N, then N integers into an array, then a value key. Search the array
+/*Practice Task 4: Linear search. Read N, then N integers into an array, then a value key. Search the array
 from the beginning and print the index of the first element equal to key. If key is not present print Not
 found.
 Input: First line: N (N <= 100). Second line: N integers. Third line: key.
