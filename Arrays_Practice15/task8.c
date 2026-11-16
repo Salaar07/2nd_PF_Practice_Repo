@@ -20,10 +20,6 @@ int k;
 	k = x[n-1];
 	x[n-1] = x[0];
 	x[0] = k;
-
-	
-	
-
 for(i =0; i< n; i++)
 	printf("%d ", x[i]);
 
